@@ -1,2 +1,4 @@
-i want to push the GIT
-modification
+x = 5
+y = 10
+print(x + y)x = 5
+
